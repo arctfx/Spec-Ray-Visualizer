@@ -9,7 +9,7 @@ import numpy as np
 
 
 # Defining image width and height
-img_w, img_h = 1200, 700
+img_w, img_h = 500, 500
 
 
 class Client:
